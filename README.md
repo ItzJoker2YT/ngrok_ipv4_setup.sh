@@ -13,3 +13,4 @@ Run this single command on your Linux machine. It downloads the script to a temp
 ```bash
 curl -sL [https://bit.ly/3Of0vb8](https://bit.ly/3Of0vb8) -o setup.sh && sudo bash setup.sh
 
+wfqvvr
