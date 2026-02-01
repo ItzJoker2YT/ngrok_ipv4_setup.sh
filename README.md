@@ -12,7 +12,7 @@ A Bash script to instantly turn any Linux machine (VPS, VM, or Google Colab) int
 Run this single command on your Linux machine. It downloads the script to a temporary file and runs it.
 
 ```bash
-curl -sL [https://bit.ly/3Of0vb8](https://bit.ly/3Of0vb8) -o setup.sh && sudo bash setup.sh
+curl -sL https://bit.ly/3Of0vb8 -o setup.sh && sudo bash setup.sh
 
 ```
 
